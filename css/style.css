@@ -10,7 +10,15 @@
   color: white;
 }
 
+.rtitle{
+  text-align: center;
+  margin-bottom: 50px;
+}
 
+.col-4{
+  float: left;
+  margin-left: 20%;
+}
 
 #LOGO{
   margin-top: 5%;
@@ -23,7 +31,6 @@
   margin-top: 30%;
   margin-bottom: 10%;
 }
-
 
 
 .services{
