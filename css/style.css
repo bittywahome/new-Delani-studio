@@ -1,51 +1,46 @@
-.background{
+* {
+  text-align: center;
+}
+
+.background {
   background-image: url("../img/first.jpg");
-  height:500px;
+  height: 500px;
   max-width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
-  position:relative;
-  text-align:center;
+  position: relative;
+  text-align: center;
   text-decoration-color: white;
   color: white;
 }
 
-.rtitle{
+.rtitle {
   text-align: center;
   margin-bottom: 50px;
 }
 
-.col-4{
-  float: left;
-  margin-left: 20%;
-}
-
-#LOGO{
+#LOGO {
   margin-top: 5%;
   margin-bottom: 10%;
 }
 
-
-
-#bottom{
-  margin-top: 30%;
-  margin-bottom: 10%;
+.bottom {
+  padding-top: 17%;
 }
 
-
-.services{
+.services {
   background-image: url("../img/s_image.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  position:relative;
-  text-align:center;
-  text-decoration-color: white;
+  background-position: center;
+  min-height: 500px;
+  text-align: center;
   color: white;
   margin-left: auto;
   margin-right: auto;
   margin-top: 3%;
 }
 
-.about{
+.about {
   text-align: center;
 }
