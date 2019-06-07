@@ -1,0 +1,11 @@
+.background{
+  background-image: url("../img/first.jpg");
+  height:500px;
+  max-width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position:relative;
+  text-align:center;
+  text-decoration-color: white;
+  color: white;
+}
