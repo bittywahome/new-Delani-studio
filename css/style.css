@@ -58,4 +58,13 @@
   min-height: 500px;
   margin-left: auto;
   margin-right: auto;
+  }
+  .form-cont{
+    text-align: center;
+    position: relative;
+    width: 700px;
+    max-width: 100%;
+    left: 50%;
+    transform: translate(-50%);
+    box-sizing: border-box;
 }
