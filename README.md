@@ -28,3 +28,8 @@ copyright (c) {2019} **betty wahome**
 
 
 #BEHAVIOR DRIVEN DEVELOPMENT
+#BEHAVIOR DRIVEN DEVELOPMENT
+
+|BEHAVIOR |input|OUTPUT|
+|---------------------------------------|------------------|------------|
+|contact us| your name and email|"name" we have recieved your message|

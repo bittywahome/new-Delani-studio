@@ -29,6 +29,14 @@
 }
 
 
+/*************SECTION2************/
+   .about {
+     text-align: center;
+   }
+
+
+/**********SECTION3***************/
+
 .services {
   background-image: url("../img/s_image.jpg");
   background-repeat: no-repeat;
@@ -42,14 +50,8 @@
   margin-top: 3%;
 }
 
-.about {
-  text-align: center;
-}
 
-
-
-
-
+/***********SECTION4**************/
 
 .rtitle {
   text-align: center;
@@ -60,7 +62,7 @@
   display:none;
 }
 
-
+/***********SECTION5*************/
 
 .effects{
   margin-bottom: 30px;
@@ -130,17 +132,17 @@ border-top:1px solid rgba(255,255, 255 ,0.9);
   transform: scale(1);
 }
 
-
-
-.col-md-3{
-  margin-top: 20px;
-}
-
 .portfolio{
   text-align: center;
 
 }
 
+.col-md-3{
+  margin-top: 20px;
+}
+
+
+/**************SECTION6************/
 
 
 .form{
