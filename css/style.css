@@ -175,3 +175,8 @@ border-top:1px solid rgba(255,255, 255 ,0.9);
     margin-top: 10px;
     width: 100%;
 }
+
+.footer-imgs:hover{
+ cursor:pointer;
+ transform: rotate(360deg);
+}
