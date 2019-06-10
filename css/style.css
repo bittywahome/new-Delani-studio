@@ -176,6 +176,10 @@ border-top:1px solid rgba(255,255, 255 ,0.9);
     width: 100%;
 }
 
+.form h6{
+  color: white;
+  font-size: 20px;
+}
 .footer-imgs img{
   transition: width 3s,height 3s, transform 3s;
 }
