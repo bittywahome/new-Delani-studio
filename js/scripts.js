@@ -6,5 +6,11 @@ $('.main').click(function() {
 $("button").click(function () {
  var client = document.getElementById('client').value;
  alert( client +' we have received your message');
- kami.preventDefault();
+ event.preventDefault();
+});
+
+$("button").on('click', function() {
+ $('form').each(function() {
+   this.reset();
+ });
 });
