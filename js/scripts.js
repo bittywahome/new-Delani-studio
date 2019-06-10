@@ -3,12 +3,8 @@ $('.main').click(function() {
  $(this).children('.show').toggle(1500);
 });
 
-$("button").click(function ("") {
+$("button").click(function () {
  var client = document.getElementById('client').value;
  alert( client +' we have received your message');
-});
-$("button").on('click', function() {
- $('form').each(function() {
-   this.reset();
- });
+ kami.preventDefault();
 });

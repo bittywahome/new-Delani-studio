@@ -52,10 +52,8 @@
 }
 
 .hide{
-  display: none;
+  display:none;
 }
-
-
 
 
 
@@ -67,7 +65,7 @@
   transition: all 0.3s ease 0s;
 }
 .effects img{
-  width:100%
+  width:100%;
   height:auto;
 }
 
@@ -116,10 +114,23 @@ border-top:1px solid rgba(255,255, 255 ,0.9);
   opacity: 1;
 }
 
+.effects:hover .overlay-text Before
+.effects:hover .overlay-text:after{
+  opacity: 1;
+  transform: scale(1);
+}
+
+
+
+
 .col-md-3{
   margin-top: 20px;
 }
 
+.portfolio{
+  text-align: center;
+
+}
 
 
 
