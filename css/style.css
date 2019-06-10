@@ -68,18 +68,16 @@
   position: relative;
   box-shadow: 5px 5px 15px #100;
   transition: all 0.3s ease 0s;
+  color: green;
+   font-size:30px;
 }
+
 .effects img{
   width:100%;
   height:auto;
 }
 
-.overlay-text{
-  background-color: rgba(0, 0, 0, 0.45);
-  display: block;
-   border: 3px solid white;
-  text-emphasis-color: white;
- }
+
 
 .effects .overlay-text{
   width: 100%;
