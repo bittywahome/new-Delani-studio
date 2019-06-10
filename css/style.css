@@ -176,6 +176,10 @@ border-top:1px solid rgba(255,255, 255 ,0.9);
     width: 100%;
 }
 
-.footer-imgs{
+.footer-imgs img{
   transition: width 3s,height 3s, transform 3s;
+}
+.footer-imgs img:hover{
+  cursor:pointer;
+  transform: rotate(360deg);
 }
